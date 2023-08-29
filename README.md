@@ -11,9 +11,13 @@
 
 
 I'm Deepak Sahni, web developer!
+<br/><br/>
 -->👀 I’m interested in learning new web technologies.
+<br/><br/>
 -->🌱 I’m currently learning web development.
+<br/><br/>
 -->💞️ I’m looking to collaborate on a web develeopment project.
+<br/><br/>
 -->📫 To reach me contact me on dsahni633@gmail.com
 
 
