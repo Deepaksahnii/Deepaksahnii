@@ -7,7 +7,7 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV-black?style=for-the-badge&logo=Dev.to&logoColor=white&link=https://dev.to/DeepakSahnii)](https://dev.to/DeepakSahnii)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dsahni633@gmail.com)](mailto:dsahni633@gmail.com)
 
-## HEllo! <img src="hi.gif" width="22">
+## HELLO! <img src="hi.gif" width="22">
 
 
 I'm Deepak Sahni, web developer!
