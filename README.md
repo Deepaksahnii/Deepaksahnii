@@ -7,13 +7,13 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV-black?style=for-the-badge&logo=Dev.to&logoColor=white&link=https://dev.to/DeepakSahnii)](https://dev.to/DeepakSahnii)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dsahni633@gmail.com)](mailto:dsahni633@gmail.com)
 
-## Olá! <img src="hi.gif" width="22">
+## HEllo! <img src="hi.gif" width="22">
 
 
-I'm Deepak Sahni, webdeveloper!
+I'm Deepak Sahni, web developer!
 
 
- ## Technologies Used
+ ## Technologies I Used
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
